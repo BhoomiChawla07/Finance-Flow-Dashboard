@@ -6,7 +6,6 @@ Modern, responsive personal finance dashboard built with React, Vite, Material-U
 ## Features
 - 📊 Interactive charts (trend analysis, spending breakdown)
 - 🔄 Role system (Owner: full CRUD | Guest: read-only)
-- 📱 Fully responsive design
 - 💾 Local storage persistence
 - 📈 Smart insights & analytics
 - 🔍 Advanced filtering & sorting
